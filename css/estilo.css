@@ -1,0 +1,65 @@
+body{
+background: #DF0101
+
+}
+
+img{
+	width: 1023px;
+
+}
+fieldset{
+	width: 1023px;
+
+}
+label{
+	display: block;
+	float:   left;
+
+}
+label,input{
+
+	width: 61px;
+	margin: 3px 0;
+
+}
+
+a{
+
+
+}
+#primeiroNome{
+	font-size: 16px;
+	font-family: arial;
+	
+	
+	
+}
+
+
+
+
+
+
+
+
+
+div{
+	width: 200px;
+	height: 200px;
+	background-color:  blue;
+}
+
+.teste{
+	width: 150px;
+	height: 150px;
+	background-color:  orange;
+
+}
+
+
+#azul{
+	width: 250px;
+	height: 250px;
+	background-color:  green;
+
+}
